@@ -1,0 +1,6 @@
+Package: hanifx
+Version: 1.0.0
+Architecture: all
+Maintainer: Hanif <sajim4653@gmail.com>
+Description: HanifX - Termux tool to show your public IP, location, ISP info and more
+Depends: curl, jq
